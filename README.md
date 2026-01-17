@@ -84,5 +84,7 @@ BlinkAlert works on all modern browsers including:
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
+Pranav Patil
+
 
 
